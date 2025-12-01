@@ -40,7 +40,7 @@ export default function Contact() {
           <input
             type="hidden"
             name="_next"
-            value="http://127.0.0.1:5173/thank-you"
+            value="https://react-multipage-app.netlify.app/thank-you"
           />
         </form>
       </div>
